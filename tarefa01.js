@@ -1,3 +1,6 @@
+// utilize o node para rodar
+// node tarefa01.js 
+
 function getChangeLetters(word) {
   const changes = [];
   // Função auxiliar para gerar as permutações
